@@ -1,4 +1,4 @@
-# Brown Bag Films - Technical Test
+# Technical Test
 
 Prepared by **Leonid Ksenchuk**
 
